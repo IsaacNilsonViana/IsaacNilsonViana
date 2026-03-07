@@ -36,12 +36,12 @@ I'm a Data Science enthusiast focused on building intelligent systems and effici
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/isaacnilsonviana" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
   </a>
   <a href="mailto:isaacnilsonv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="google" />
   </a>
   <a href="https://instagram.com/isaacnilsonv" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40" height="40" alt="instagram" />
   </a>
 </p>
