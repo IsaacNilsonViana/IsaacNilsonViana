@@ -26,19 +26,6 @@ I'm currently studying at **Biopark Educação**, where I develop academic and a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
-**Infrastructure & Automation**
-- Proxmox VE
-- n8n
-- AWS
-
----
-
-### What I'm Working On
-
-- **Audio Pattern Recognition** — applying KDD and unsupervised learning to analyze audio datasets
-- **Data Pipelines** — structuring and processing datasets for reproducible workflows
-- **Automation Projects** — building practical automations with Python, n8n and containerized environments
-
 ---
 
 ### Interests
