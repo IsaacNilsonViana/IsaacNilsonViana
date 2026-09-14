@@ -1,43 +1,5 @@
 # Hi, I'm Isaac Nilson
 
-### Python Developer | Automation, Data Pipelines, SQL & Docker
-
-I build practical solutions using **Python, SQL, Docker and automation tools**.  
-My current focus is on **data processing, workflow automation, backend integrations and lightweight infrastructure**.
-
-I'm currently studying at **Biopark Educação**, where I develop academic and applied projects involving **data workflows, reproducible environments and intelligent systems**.
-
----
-
-### Tech Stack
-
-**Programming & Data**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
-</p>
-
-**Databases, Containers & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
-
----
-
-### Interests
-
-- Workflow automation
-- Data engineering foundations
-- Backend integrations
-- Containerized applications
-- Lightweight infrastructure
-
----
-
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/isaacnilsonviana" target="_blank">
