@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Olá,+sou+Isaac+Nilson+Viana!;Estudante+de+Inteligência+Artificial;Desenvolvedor+%26+Entusiasta+de+Dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C66A00&center=true&vCenter=true&width=800&lines=Olá,+sou+Isaac+Nilson+Viana!;Estudante+de+Inteligência+Artificial;Desenvolvedor+%26+Entusiasta+de+Dados" alt="Olá, sou Isaac Nilson Viana! Estudante de Inteligência Artificial. Desenvolvedor e Entusiasta de Dados." />
 </div>
 
 <br/>
