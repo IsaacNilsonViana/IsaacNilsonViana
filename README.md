@@ -7,8 +7,20 @@
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **Bacharelado em Inteligência Artificial** na Faculdade Donaduzzi (Toledo - PR).
 - 💼 Atualmente trabalhando com infraestrutura de telecomunicações utilizando **QGIS, ZWCAD e AutoCAD**.
-- 🚀 Desenvolvendo o **Synapse**, uma plataforma de recomendação de talentos usando Microsserviços, Java Spring Boot, PostgreSQL e Machine Learning em Python.
+- 🚀 Participo do desenvolvimento do **Synapse**, uma plataforma de recomendação de talentos feita em equipe com Java Spring Boot, PostgreSQL e Machine Learning em Python.
 - ⚙️ Experiência prévia como Desenvolvedor de Software construindo integrações e automações com **Python e n8n**.
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Estado | Acesso |
+| --- | --- | --- |
+| [Synapse](https://github.com/Projeto-Integrador-IV-IA/Linkedin_corporativo) | Aplicação web publicada | [Abrir o app](https://synapse.rafixx.com/) |
+| [Bolso Claro](https://github.com/IsaacNilsonViana/bolso-claro) | Aplicativo Android | [Baixar o APK](https://github.com/IsaacNilsonViana/bolso-claro/releases/latest/download/bolso-claro-v1.0.0.apk) |
+| [Crochet Studio](https://github.com/IsaacNilsonViana/crochet-studio) | Em desenvolvimento | Código e documentação no repositório |
+
+[Ver meu portfólio](https://inv.rafixx.com/)
 
 ---
 
@@ -32,7 +44,7 @@
 
   <!-- Ferramentas Específicas & Engenharia -->
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white" />
 </div>
 
