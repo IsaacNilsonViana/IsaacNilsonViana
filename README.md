@@ -18,6 +18,7 @@
 | --- | --- | --- |
 | [Synapse](https://github.com/Projeto-Integrador-IV-IA/Linkedin_corporativo) | Aplicação web publicada | [Abrir o app](https://synapse.rafixx.com/) |
 | [Bolso Claro](https://github.com/IsaacNilsonViana/bolso-claro) | Aplicativo Android | [Baixar o APK](https://github.com/IsaacNilsonViana/bolso-claro/releases/latest/download/bolso-claro-v1.0.0.apk) |
+| Loja | Demonstração de e-commerce com catálogo, carrinho, conta e entrega fictícia; pagamentos desativados | [Acessar o site](https://loja.rafixx.com/) |
 | [Crochet Studio](https://github.com/IsaacNilsonViana/crochet-studio) | Em desenvolvimento | Código e documentação no repositório |
 
 [Ver meu portfólio](https://inv.rafixx.com/)
