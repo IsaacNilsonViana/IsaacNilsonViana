@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Sobre mim
 - 🎓 Cursando **Bacharelado em Inteligência Artificial** na Faculdade Donaduzzi (Toledo - PR).
-- 💼 Atualmente trabalhando com infraestrutura de telecomunicações utilizando **QGIS, ZWCAD e AutoCAD**.
+- 💼 **Auxiliar de Desenhista** na Piana Telecom Engenharia e Projetos, com projetos de telecomunicações usando **QGIS, ZWCAD e AutoCAD**.
 - 🚀 Participo do desenvolvimento do **Synapse**, uma plataforma de recomendação de talentos feita em equipe com Java Spring Boot, PostgreSQL e Machine Learning em Python.
-- ⚙️ Experiência prévia como Desenvolvedor de Software construindo integrações e automações com **Python e n8n**.
+- ⚙️ Experiência em desenvolvimento de automações, integrações e dados com **Python, SQL, Docker, Linux e n8n**.
 
 ---
 
