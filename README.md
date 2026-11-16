@@ -21,7 +21,7 @@
 | Loja | Demonstração de e-commerce com catálogo, carrinho, conta e entrega fictícia; pagamentos desativados | [Acessar o site](https://loja.rafixx.com/) |
 | [Crochet Studio](https://github.com/IsaacNilsonViana/crochet-studio) | Em desenvolvimento | Código e documentação no repositório |
 
-[Ver meu portfólio](https://inv.rafixx.com/)
+[Ver meu portfólio](https://inv.rafixx.com/) · [LinkedIn](https://www.linkedin.com/in/isaacnilsonviana/)
 
 ---
 
